@@ -17,4 +17,4 @@ Press Ctrl+Alt+P and install required packages through typing the commands:
 
 
 	script 			command 
-interp_v3.py :		!pip install tabulate 
+	interp_v3.py 		!pip install tabulate 
